@@ -1,6 +1,6 @@
-# Project: Delivery Route Optimization
+# [Project: Delivery Route Optimization](https://huggingface.co/spaces/Jing997/DeliveryRouteOptimisation)
 
-![Delivery Route Network](img/delivery-route-network.jpg)
+![Delivery Route Optimization Demo](gif/delivery_route_optimisation.gif)
 
 This project is a **Delivery Route Optimization** tool built using Streamlit. It aims to optimize delivery routes for a fleet of vehicles while considering constraints such as delivery time windows, vehicle capacity, and traffic conditions.
 
