@@ -108,14 +108,3 @@ The app is automatically updated whenever changes are pushed to the connected Gi
 ## License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
-
-### What this means:
-
-- You are free to use, modify, and distribute this software
-- If you distribute modified versions, you must:
-  - Make your source code available
-  - License your modifications under the same GPL v3.0 terms
-  - Clearly mark what changes you've made
-- This license prevents others from taking this code and using it in closed-source commercial products without contributing back
-
-The GPL v3.0 is a "copyleft" license designed to ensure that all modifications to the code remain open source and freely available to the community.
