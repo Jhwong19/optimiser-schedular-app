@@ -129,6 +129,8 @@ celerybeat.pid
 
 # Environments
 .env
+.env.*
+!.env.example
 .venv
 env/
 venv/
@@ -172,3 +174,15 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Local secrets and credentials
+.streamlit/secrets*.toml
+.aws/
+.ssh/
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# macOS Finder metadata
+.DS_Store

@@ -63,7 +63,7 @@ def home_page():
         st.code("python src/utils/generate_all_data.py")
     
     # Add the image
-    img_path = Path(__file__).resolve().parent.parent.parent / "img" / "delivery-route-network.jpg"
+    img_path = Path(__file__).resolve().parent.parent.parent / "img" / "delivery-route-network.svg"
     if os.path.exists(img_path):
         st.image(str(img_path), caption="Delivery Route Network")
 

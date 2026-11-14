@@ -1,7 +1,3 @@
-[general]
-email = "142104262+Jhwong19@users.noreply.github.com"
-# The email address for the Streamlit sharing service.
-
 [server]
 headless = true
 port = 8501

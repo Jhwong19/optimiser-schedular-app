@@ -9,18 +9,18 @@ def contact_page():
     st.write("""
     ### Get in Touch
     
-    For questions, feedback, or suggestions about this application, please feel free to reach out.
-    
-    **Email**: 142104262+Jhwong19@users.noreply.github.com
+    For questions, feedback, or suggestions about this application,
+    [open an issue on GitHub](https://github.com/Jhwong19/optimiser-schedular-app/issues).
     
     ### Repository
     
     This project is open-source. Find the code on GitHub:
-    [streamlit-schedular-app](https://github.com/yourusername/streamlit-schedular-app)
+    [optimiser-schedular-app](https://github.com/Jhwong19/optimiser-schedular-app)
     
     ### License
     
-    This project is licensed under the MIT License. See the LICENSE file for more details.
+    This project is licensed under the GNU General Public License v3.0.
+    See the LICENSE file for more details.
     """)
 
 # Make sure the function can be executed standalone
